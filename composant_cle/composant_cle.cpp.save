@@ -40,7 +40,8 @@ class Cle
 	}
 
         const std::string &getPrivateKey() const {
-	       return privatekey;
+	       
+return privatekey;
        	}
         const std::string &getPublicKey() const {
            return publickey;
