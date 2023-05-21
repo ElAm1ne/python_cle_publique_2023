@@ -1,3 +1,7 @@
+Voici les screens de l'execution de l'exercice 1 :
+![image](https://github.com/ElAm1ne/python_cle_publique_2023/assets/114306633/7fd825f8-629e-4056-bad1-b2677bd5e334)
+![image](https://github.com/ElAm1ne/python_cle_publique_2023/assets/114306633/40f4f6e3-384b-424c-b7a6-5b7a15a95dac)
+
 # python_cpp
 Exemple d'utilisation d'un composant en python
 Utilise pybind11
